@@ -1,0 +1,71 @@
+body{
+	
+	background-image: linear-gradient(green, lime);
+	
+}
+
+h1{ 
+	margin: 0 25px 0 25px;  
+	padding: 20px;
+	border: solid black 2px;
+	border-radius: 10px;
+	font-size: 84px;
+	text-align: center;
+	color: rgb(230, 235, 164);
+	background-image: linear-gradient(rgb(31, 190, 243), darkblue);
+	
+}
+
+h2 {
+	margin: 0 25px 0 25px;
+    padding: 20px;
+    border: solid black 2px;
+    border-radius: 10px;
+	text-align: center;
+	color: rgb(10, 10, 95);
+	background-color:rgb(173, 41, 61)
+}
+
+p{  
+	margin: 0 25px 0 25px;
+	padding: 20px;
+	border: solid black 2px;
+	border-radius: 10px;
+	text-align: center;
+	color: white;
+	background-image: linear-gradient(magenta, purple);
+}
+
+img{
+	margin-left: 25px 25px 25px 300px;
+	border: solid black 2px;
+	border-radius: 10px;
+}
+
+
+div{
+
+	margin: 25px;
+	padding: 50px;
+	background-image: linear-gradient( pink, red);
+	border: solid 2px;
+	border-radius: 10px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
